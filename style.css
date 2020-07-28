@@ -16,14 +16,13 @@ navigation {
     float: left;
 }
 
-navigation ul {
+navigation nav_list {
     margin: 0;
     padding: 0; 
     list-style: none;
+    display flex;
 }
 
-navigation li {
-    flex-direction: row;
-
+navigation list_item {
     margin-left: 70px;
 }
