@@ -16,13 +16,18 @@ header {
     float: left;
 }
 
-.navigation .nav_list {
+.nav_list {
     margin: 0;
     padding: 0; 
     list-style: none;
     display: flex;
 }
 
-.navigation .list_item {
+.list_item {
     margin-left: 70px;
+}
+
+.nav_link {
+
+    color: #44444;
 }
