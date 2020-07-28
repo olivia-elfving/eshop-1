@@ -1,19 +1,16 @@
 body {
     background-color: rgb(159 189 158 / 63%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
 }
 
-.container{
+.container {
     max-width: 800px;   /* max-width och inte width för att anpassa även för telefoner */
     margin: 0 auto;
-    }
+}
 
 header {
     background: lightpink;
-}
-
-.navigation {
-    
 }
 
 .nav_list {
@@ -28,6 +25,5 @@ header {
 }
 
 .nav_link {
-
     color: #444444;
 }
