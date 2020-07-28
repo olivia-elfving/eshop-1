@@ -2,3 +2,32 @@ body {
     background-color: rgb(159 189 158 / 63%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.container{
+    width 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: lightpink;
+}
+
+nav {
+    float: left;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+nav a {
+    color: #444444
+    text-transform: uppercase;
+} 
