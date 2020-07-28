@@ -12,17 +12,17 @@ header {
     background: lightpink;
 }
 
-navigation {
+.navigation {
     float: left;
 }
 
-navigation nav_list {
+.navigation .nav_list {
     margin: 0;
     padding: 0; 
     list-style: none;
     display flex;
 }
 
-navigation list_item {
+.navigation .list_item {
     margin-left: 70px;
 }
