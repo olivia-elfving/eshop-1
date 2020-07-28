@@ -6,8 +6,7 @@ body {
 .container{
     max-width: 800px;   /* max-width och inte width för att anpassa även för telefoner */
     margin: 0 auto;
-    justify-content: center;
-}
+    }
 
 header {
     background: lightpink;
