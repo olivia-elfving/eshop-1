@@ -10,14 +10,14 @@ body {
 }
 
 .background_picture {
-    height: 50%
+    height: 100%
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .drink_choises {
-    
+
 }
 header {
     background: lightpink;
